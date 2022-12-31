@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "name": "Double Ladders",
+  "modid": "doubleladders",
+  "version": "1.0.0",
+  "description": "Changes the ladder recipe to give 6 ladders instead of 3.",
+  "authors": ["Burneddi"],
+  "dependencies": {
+    "survival": "1.17.0"
+  }
+}
